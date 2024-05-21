@@ -10,14 +10,8 @@ public class IdentificadorTriangulo {
 	 * e, com elas, chamar o método "identificarTriangulo",
 	 * que realiza a identificação fora do escopo principal.
 	 * ------------------------------------------------------
-	 * Lógica/pseudocódigo
-	 * 
-	 * Ao receber três valores do usuário, que representam
-	 * cada um dos lados de um triângulo, o algoritmo busca
-	 * validar, em primeiro lugar, se todos os valores são
-	 * iguais, identificando um equilátero ou não, após isso,
-	 * verificamos se 
-	 * 
+	 * Repositório no Github:
+	 * https://github.com/gusmmmao/identificadorDeTriangulos/
 	 */
 	
 	public static void main (String [] args) {
